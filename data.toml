@@ -9,25 +9,18 @@ gtag_id = "G-XLJ81DCZFV"
 base_url = "https://thevahidal.github.io/jake"
 
 [[sections]]
-title = "Movies"
-description = "Here are some of my movies"
+title = "Foods / Drinks"
+description = "Here are some of my foods / drinks"
 direction = "column"
 item_style = "outline"
 [[sections.items]]
-embed_url = "https://www.youtube.com/embed/x0gUY9ddjQY"
+title = "Milk"
+description = "A White drink"
+url = "https://google.com/?q=milk"
 [[sections.items]]
-title = "Nightcrawler"
-description = "A mesmerizing thriller delving into the dark world of crime journalism"
-url = "https://www.imdb.com/title/tt2872718/"
-[[sections.items]]
-title = "Brokeback Mountain"
-description = "A groundbreaking romantic drama challenging societal expectations"
-url = "https://www.imdb.com/title/tt0388795/"
-[[sections.items]]
-title = "Prisoners"
-description = "A gripping thriller entangling a detective in a web of secrets during a kidnapping investigation"
-url = "https://www.imdb.com/title/tt1392214/"
-
+title = "Sandwich"
+description = "You know just a sandwich!"
+url = "https://mcdonalds.com"
 
 [[sections]]
 title = "Links"
